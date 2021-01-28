@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   #  These will help people to find your library, and whilst it
   #  can feel like a chore to fill in it's definitely to your advantage. The
   
-  spec.name         = "MyFramework"
+  spec.name         = "TGScrollView"
   spec.version      = "0.0.1"
   spec.summary      = "This is my first open library ,hope it can be liked by everyone"
 
@@ -76,7 +76,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/MyFramework.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/chenhongxin2015/TGScrollView.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
